@@ -11,11 +11,18 @@ Projet app Spring Boot com Docker compose & PostgreSQL
 ## 2. Executar app ws-client
 
  1 - baixe a IDE Desenvolvimento STS https://spring.io/tools/sts/legacy;
+
+
  2 - baixe o projeto https://github.com/georgeGates/ws-client.git;
+
+
  3 - Abra a IDE  clicar com o direito Import->Maven->Existing Maven Project e importe o projeto  ws-client
+
+
  4- clicar com o direito em cima do projeto, selecionar Run As, depois Spring Boot App
  
  Para validação de requisição: POST, PUT, DELETE, GET, foi utilizado a Ferramentas para  modelagem   e documentação de APIs Rest - Swagger:
+
  http://localhost:8080/swagger-ui.html
 
 
