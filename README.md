@@ -29,6 +29,9 @@ Projet app Spring Boot com Docker compose & PostgreSQL
  Para validação pelo Postman:
 
  POST: http://localhost:8080/api/client
+ 
+
+
  Document: 
  {
   "addressCep": "01001000",
@@ -39,6 +42,9 @@ Projet app Spring Boot com Docker compose & PostgreSQL
  } 
 
  PUT: http://localhost:8080/api/client
+ 
+
+
  Document:
  {
   "addressCep": "01001000",
